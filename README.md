@@ -1,1 +1,1 @@
-# Text-Classification-Sentiment-Analysis-with-NLP-
+Text mining (Sentiment Analysis) Using Naive Bayes
